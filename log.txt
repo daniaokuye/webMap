@@ -1,0 +1,1366 @@
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】安庆
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】亳州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】六安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】马鞍山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宿州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】铜陵
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宣城
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】南平
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宁德
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】三明
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】漳州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】定西
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】嘉峪关
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】金昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】酒泉
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】陇南
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】平凉
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】庆阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】天水
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】河源
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】惠州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】揭阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】茂名
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】汕尾
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】韶关
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阳江
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】云浮
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】北海
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】崇左
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】防城港
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】桂林
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】贵港
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】贺州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】来宾
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】柳州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】钦州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】梧州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黔西南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黔东南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()白沙
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E7%99%BD%E6%B2%99&qt=cur&t=1491314835633
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()保亭
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E4%BF%9D%E4%BA%AD&qt=cur&t=1491367535633
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()昌江
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E6%98%8C%E6%B1%9F&qt=cur&t=1491342835633
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】儋州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】东方
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】定安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】琼海
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()琼中
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E7%90%BC%E4%B8%AD&qt=cur&t=1491347635633
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()乐东
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E4%B9%90%E4%B8%9C&qt=cur&t=1491371935633
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】临高
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()陵水
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E9%99%B5%E6%B0%B4&qt=cur&t=1491355135633
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:None
+INFO:root:++++++++++++++++++++屯昌++++++++++++++++++++
+INFO:root:info--出现错误，con为【】万宁
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】文昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】五指山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】沧州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】廊坊
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】开封
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】商丘
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】新乡
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】信阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】许昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】驻马店
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鹤岗
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黑河
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鸡西
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】七台河
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】伊春
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鄂州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】恩施
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黄石
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】荆州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】潜江
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】十堰
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】随州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】天门
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】仙桃
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】咸宁
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】襄阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宜昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】常德
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】衡阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】怀化
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】娄底
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】邵阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】湘潭
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】湘西州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】益阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】岳阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】张家界
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】镇江
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】景德镇
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】萍乡
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】白山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】吉林市
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】四平
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】松原
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()延边
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E5%BB%B6%E8%BE%B9&qt=cur&t=1491395835633
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鞍山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】本溪
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】朝阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】丹东
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】抚顺
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阜新
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】葫芦岛
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】锦州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】辽阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿拉善盟
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】赤峰
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】通辽
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】乌海
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】乌兰察布
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】固原
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】果洛州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】海东地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】海南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】海西州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黄南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】玉树州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】德州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】莱芜
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】日照
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】晋城
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阳泉
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】运城
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】安康
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】汉中
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】商洛
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】渭南
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】咸阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】延安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】榆林
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿坝州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】巴中
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】达州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】德阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】甘孜州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】广安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】雅安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宜宾
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:属性问题台北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题高雄
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:属性问题台中
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台中
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台中
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台中
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题台南
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新北
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】基隆
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:属性问题新竹
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新竹
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题新竹
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题嘉义
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】拉萨
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿里地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】昌都地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】林芝地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】那曲地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】日喀则地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】山南地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】乌鲁木齐
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿拉尔
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿克苏地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿勒泰地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()巴音郭楞
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E5%B7%B4%E9%9F%B3%E9%83%AD%E6%A5%9E&qt=cur&t=1491352135633
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】博尔塔拉州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】昌吉州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】哈密地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】和田地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】喀什地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】克拉玛依
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】克孜勒苏州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】石河子
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】塔城地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】图木舒克
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】吐鲁番地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】五家渠
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】伊犁州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】保山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】楚雄州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】迪庆州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】临沧
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】怒江州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】曲靖
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】昭通
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】文山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:--alert，返回值问题--Loc()西双版纳
+INFO:root:[u'hot_city', u'result', u'current_city']http://map.baidu.com/?dtype=1&wd=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3&qt=cur&t=1491370135633
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】丽水
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】衢州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】舟山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'tel', u'geo_type', u'indoor_pano', u'pano', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'street_id', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'alias', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:属性问题香港
+INFO:root:[u'new_catalog_id', u'uid', u'std_tag', u'primary_uid', u'cla', u'tag', u'poi_profile', u'geo_type', u'addr', u'area', u'acc_flag', u'detail', u'catalogID', u'biz_type', u'status', u'f_flag', u'view_type', u'y', u'x', u'geo', u'name', u'show_tag', u'ty', u'ext_type', u'route_flag', u'storage_src', u'region_type', u'father_son', u'poiType', u'dis']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】澳门
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】安庆
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】亳州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】六安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】马鞍山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宿州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】铜陵
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宣城
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】南平
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宁德
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】三明
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】漳州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】定西
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】嘉峪关
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】金昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】酒泉
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】陇南
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】平凉
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】庆阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】天水
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】河源
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】惠州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】揭阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】茂名
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】汕尾
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】韶关
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阳江
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】云浮
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】北海
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】崇左
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】防城港
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】桂林
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】贵港
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】贺州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】来宾
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】柳州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】钦州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】梧州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黔西南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黔东南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】儋州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】东方
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】定安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】琼海
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】临高
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】万宁
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】文昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】五指山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】沧州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】廊坊
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】开封
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】商丘
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】新乡
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】信阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】许昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】驻马店
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鹤岗
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黑河
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鸡西
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】七台河
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】伊春
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鄂州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】恩施
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黄石
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】荆州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】潜江
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】十堰
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】随州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】天门
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】仙桃
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】咸宁
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】襄阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宜昌
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】常德
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】衡阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】怀化
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】娄底
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】邵阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】湘潭
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】湘西州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】益阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】岳阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】张家界
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】镇江
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】景德镇
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】萍乡
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】白山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】吉林市
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】四平
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】松原
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】鞍山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】本溪
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】朝阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】丹东
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】抚顺
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阜新
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】葫芦岛
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】锦州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】辽阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿拉善盟
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】赤峰
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】通辽
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】乌海
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】乌兰察布
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】固原
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】果洛州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】海东地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】海南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】海西州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】黄南州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】玉树州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】德州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】莱芜
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】日照
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】晋城
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阳泉
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】运城
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】安康
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】汉中
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】商洛
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】渭南
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】咸阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】延安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】榆林
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿坝州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】巴中
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】达州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】德阳
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】甘孜州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】广安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】雅安
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】宜宾
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】基隆
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】拉萨
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿里地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】昌都地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】林芝地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】那曲地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】日喀则地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】山南地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】乌鲁木齐
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿拉尔
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿克苏地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】阿勒泰地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】博尔塔拉州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】昌吉州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】哈密地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】和田地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】喀什地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】克拉玛依
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】克孜勒苏州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】石河子
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】塔城地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】图木舒克
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】吐鲁番地区
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】五家渠
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】伊犁州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】保山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】楚雄州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】迪庆州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】临沧
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】怒江州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】曲靖
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】昭通
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】文山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】丽水
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】衢州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】舟山
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】澳门
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】安庆
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:info--出现错误，con为【】亳州
+INFO:root:keys of response[u'result']
+INFO:root:------------------------------
+INFO:root:##################################################
+536
